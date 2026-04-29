@@ -10,8 +10,8 @@
 > **Note:** This repository is currently **private** and will be made public upon paper acceptance.
 
 ---
-  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proanas/HyMPOR/blob/main/pipeline/HyMPOR_GitHub.ipynb)
-## 📖 Abstract
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/proanas/HyMPOR/blob/main/HyMPOR_GitHub.ipynb)
+## 📖 Abstract  
 
 Old photographs suffer from complex, co-occurring degradations — scratches, stains, fading, occlusions, and loss of fine detail — that no single restoration model can adequately address. We present **HyMPOR**, a hybrid multi-stage pipeline that sequentially applies state-of-the-art models for scratch detection and removal, face enhancement, object removal via segmentation-guided inpainting, and colorization. Evaluated on both synthetic and real damaged photographs, HyMPOR achieves superior quantitative scores and perceptually compelling results across all degradation types.
 
