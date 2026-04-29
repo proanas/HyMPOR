@@ -78,20 +78,14 @@ HyMPOR/
 │   └── selector.py             # Stage selector logic
 │
 ├── modules/
-│   ├── Bringing_Old_Photos_Back_to_Life/   # Stage 1
-│   ├── GFPGAN/                             # Stage 2
-│   ├── SAM2/                               # Stage 3a
-│   ├── AOT_GAN/                            # Stage 3b
-│   └── DeOldify/                           # Stage 4
-│
-├── configs/                    # YAML configuration files
-├── dataset/                    # Evaluation dataset (not included)
-├── weights/                    # Place downloaded weights here
-├── checkpoints/                # Training checkpoints
-├── results/                    # Output results
-├── train_logs/                 # Training logs
-└── train_outputs/              # Training output samples
-```
+    ├── Bringing_Old_Photos_Back_to_Life/   # Stage 1
+    ├── GFPGAN/                             # Stage 2
+    ├── SAM2/                               # Stage 3a
+    ├── AOT_GAN/                            # Stage 3b
+    └── DeOldify/                           # Stage 4
+
+
+ 
 
 ---
 
