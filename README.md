@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
-> **Note:** This repository is currently **private** and will be made public upon paper acceptance.
 
 ---
  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proanas/HyMPOR/blob/main/HyMPOR_GitHub.ipynb)
