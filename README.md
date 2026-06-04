@@ -116,11 +116,11 @@ HyMPOR/
 If you find this work useful, please cite:
 
 ```bibtex
-@article{HyMPOR2025,
+@article{HyMPOR2026,
   title   = {A Hybrid Multi-Stage Pipeline for Restoring Damaged and Occluded Old Photographs},
-  author  = {Anonymous},
+  author  = {Anas Hameed Ali},
   journal = {Under Review},
-  year    = {2025}
+  year    = {2026}
 }
 ```
 
