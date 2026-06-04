@@ -132,7 +132,7 @@ This work builds upon several outstanding open-source projects:
 
 - [Bringing Old Photos Back to Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) — Microsoft Research
 - [SAM2](https://github.com/facebookresearch/sam2) — Meta AI Research
-- [AOT-GAN](https://github.com/researchmm/AOT-GAN-for-Inpainting) — researchmm
+- [AOT-GAN](https://github.com/researchmm/AOT-GAN-for-Inpainting) — Zeng, Yanhong and Fu, Jianlong and Chao, Hongyang and Guo, Baining
 - [GFPGAN](https://github.com/TencentARC/GFPGAN) — Tencent ARC
 - [DeOldify](https://github.com/jantic/DeOldify) — Jason Antic
 
