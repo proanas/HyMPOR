@@ -14,7 +14,7 @@
 Old photographs suffer from complex, co-occurring degradations — scratches, stains, fading, occlusions, and loss of fine detail — that no single restoration model can adequately address. We present **HyMPOR**, a hybrid multi-stage pipeline that sequentially applies state-of-the-art models for scratch detection and removal, face enhancement, object removal via segmentation-guided inpainting, and colorization. Evaluated on both synthetic and real damaged photographs, HyMPOR achieves superior quantitative scores and perceptually compelling results across all degradation types.
 
 ---
-![HyMPOR Pipeline](https://github.com/proanas/HyMPOR/pipeline.PNG)
+![HyMPOR Pipeline](https://github.com/proanas/HyMPOR/blob/main/pipeline.PNG)
 ---
 ## 🚀 Quick Start
 
