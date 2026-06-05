@@ -61,7 +61,19 @@ Input (Damaged Old Photo)
                   ▼
         Output (Restored Photo)
 ```
+## 🔄 Switching GFPGAN Versions
 
+The project bundles **both** GFPGAN face-enhancement weights — **v1.4** (default) and **v1.3**. You can switch between them by editing a single line in the GFPGAN cell (Step 3):
+
+```python
+# Default — v1.4
+GFPGAN_WEIGHTS = f'{GFPGAN_DIR}/experiments/pretrained_models/GFPGANv1.4.pth'
+
+# To use v1.3 instead, change 1.4 → 1.3:
+GFPGAN_WEIGHTS = f'{GFPGAN_DIR}/experiments/pretrained_models/GFPGANv1.3.pth'
+```
+
+> Both weights are included in the project, so no extra download is needed — just change the number and re-run the cell.
 ---
 
 ## 🧩 Modules
